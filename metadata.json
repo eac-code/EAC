@@ -1,0 +1,6 @@
+{
+  "name": "Permit & Licence Portal",
+  "description": "A standalone permit and license application intake system with an integrated public status checker and administrative staff review panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
